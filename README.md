@@ -49,5 +49,11 @@ Dataset yang digunakan merupakan kumpulan ulasan dalam Bahasa Indonesia. Dataset
 
 Model LDA menunjukkan performa klasifikasi sentimen yang cukup baik terhadap dataset ulasan. Hasil evaluasi menggunakan confusion matrix dan classification report ditampilkan untuk mengukur kualitas prediksi.
 
-## 📁 Struktur File
+## 🚀 Cara Menjalankan
+
+1. Clone repository ini:
+
+   ```bash
+   git clone https://github.com/chardinal/Sentimen-Analysis-with-LDA-Model.git
+
 
